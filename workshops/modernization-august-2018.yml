@@ -10,6 +10,7 @@ vars:
   WORKSHOP_VERSION: v1.0
 modules:
   activate:
+  - "modules_create-environment_readme"
   - "modules_getting-started_readme"
   - "modules_containerize-application_readme"
   - "modules_artifactory_readme"
