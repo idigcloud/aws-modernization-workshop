@@ -23,6 +23,6 @@ If you already have an AWS account, you can skip this step. Otherwise, http://do
 ==== Create the training environment
 
 Ensure that you have the appropriate permissions to provision resources in your AWS account. Then, 
-https://console.aws.amazon.com/cloudformation/home?region=us-west-2#/stacks/create/review?stackName=AWSModernizationWorkshop&templateURL=https:%2F%2Fmodernization-workshop-west-2.s3.amazonaws.com%2Fcreate-environment%2Ftemplates%2workshop_env_master.yaml[deploy the environment].
+https://console.aws.amazon.com/cloudformation/home?region=us-west-2#/stacks/create/review?stackName=AWSModernizationWorkshop&templateURL=https://s3-us-west-2.amazonaws.com/modernization-workshop-west-2/create-environment/templates/workshop_env_master.yaml[deploy the environment].
 
 Once the environment has been created, you may proceed with additional configuration steps in the https://modernize.awsworkshop.io/index.html#/workshop/modernization-august-2018/module/modules_getting-started_readme[Getting Started] module.
