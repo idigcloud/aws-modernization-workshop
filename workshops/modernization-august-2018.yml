@@ -1,7 +1,7 @@
 ---
 id: modernization-august-2018
 name: Workshop
-workshop_title: "Digital Modernization"
+workshop_title: "Modern Application Development"
 revision: nsiAugust2018
 logo: "aws-smile.png"
 enable_issue_submission: false
@@ -10,6 +10,7 @@ vars:
   WORKSHOP_VERSION: v1.0
 modules:
   activate:
+  - "modules_welcome_readme"
   - "modules_create-environment_readme"
   - "modules_getting-started_readme"
   - "modules_containerize-application_readme"
