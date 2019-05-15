@@ -1,6 +1,8 @@
 Modern Application Development Workshop
 =======================================
 
+==== Modern Application Development Workshop
+
 Companies are increasingly building products that are the technology itself or heavily influenced by technology. In order to be more competitive, companies must create better products, and to do that, they must increase agility and innovate faster.
 
 Modern application development is an approach to designing, building, and managing applications. This approach increases the agility of your teams and the reliability, security, and scalability of your applications. Through modern application development, you can build better products faster so you can have happier customers.
@@ -16,3 +18,16 @@ The best practices of modern application development arose from our experience s
 |INFRASTRUCTURE AS CODE|OBSERVABILITY|SECURITY & COMPLIANCE
 |Standardize operations by modeling all applications and infrastructure as code (IaC). IaC allows you to model your application and all the supporting infrastructure resources as code. This code serves as the single source of truth for all your infrastructure, and updates to your infrastructure are made directly in code. This eliminates the need for manual updates to infrastructure which can be error-prone.|Improve application performance by increasing observability. Collecting, aggregating, and correlating metrics, logs, and traces builds insights into application and customer behavior. We call this observability. Observability allows you to rapidly detect and respond to issues and opportunities to improve application performance.|Secure the entire application lifecycle by automating security. Building authentication, authorization, and compliance auditing directly into every component of your application, and securing your infrastructure from intrusions protects your users and your business. Automating the evaluation of security configuration and implementation throughout the development process and in production reduces the time it takes to secure your application.
 |==========================================
+
+===== About this workshop
+Created by the Partner Solutions Architect team, this workshop is the culmination of experience gained working with customers who are adopting modern application development approaches.
+
+In this workshop you will learn how to:
+
+* Containerize an existing monolithic application.
+* Store and secure third party libraries for use in your software
+* Deploy your container image to a highly scalable repository
+* Deploy your container to a scalable, highly available orchestration engine (ECS)
+* Use stateful sets to deploy the application to Kubernetes (EKS)
+* Monitor and audit the deployed application
+* Automate all of the above processes
