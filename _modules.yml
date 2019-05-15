@@ -1,4 +1,6 @@
 modules:
+  modules_welcome_readme:
+    name: Workshop Introduction
   modules_create-environment_readme:
     name: Create Workshop Environment
   modules_getting-started_readme:
@@ -22,6 +24,6 @@ modules:
   modules_container-elasticity_readme:
     name: Container Elasticity
   modules_security_readme:
-    name: Security  
+    name: Security
   modules_feedback_readme:
     name: Feedback
